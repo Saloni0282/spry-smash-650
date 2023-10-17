@@ -1,4 +1,4 @@
-# HangOut
+# Chat App (Clone)
 
 Hangout is an online communication channel that allows you to conduct real-time conversations. It involves the transmission of live text messages from the sender to the recipient.
 
